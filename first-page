@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <title>Eddy Drew's World</title>
+    <meta charset=“UTF-8”>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("p").click(function(){
+        alert("Got the Javascript reference? Be Awesome :)");
+    });
+});
+</script>
+</head>
+</head>
+
+<body>
+
+<div>
+  <div id="grad1">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+    </ul>
+</div>
+
+<div id="box-1">
+  <div id="mini-box1">Keep Calm</div>
+</div>
+
+<div id="box-2">
+    <div id="mini-box2">Learn To Code</div>
+</div>
+
+<div id="box-3">
+    <div id="mini-box3">Fall On Face</div>
+    </div>
+</div>
+<div>
+
+  <h1 style="text-align: center;"> Click Below For The Secret Message! </h1>
+
+  <p><span style="background: #092551;"><strong>Note To Visitors</strong>:
+    <br>
+    // life motto <br>
+    if (sad()) === true) { <br>
+      sad().stop(); <br>
+      beAwesome();
+    }
+  </p>
+</span>
+</div>
+
+<p2 style="text-align: center; font-size: 18px;"><a href id="#ul"> Back to the Top </p2>
+</body>
+</html>
